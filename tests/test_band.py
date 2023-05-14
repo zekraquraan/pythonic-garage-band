@@ -187,5 +187,3 @@ def clean():
     Check the docs for that. Hint: it uses yield
     """
     Band.instances = []
-
-
